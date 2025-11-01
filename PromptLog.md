@@ -1,0 +1,1 @@
+I used Cursor AI and ChatGPT (GPT-5) to scaffold the FastAPI app, refine the OCR pipeline, and generate regex patterns iteratively. Each module (OCR, extraction, DB) was developed using AI-assisted reasoning — emulating an AI copilot workflow.
